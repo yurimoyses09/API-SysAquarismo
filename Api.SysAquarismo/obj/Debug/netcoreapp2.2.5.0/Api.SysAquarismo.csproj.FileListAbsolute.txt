@@ -1,0 +1,4 @@
+C:\Users\ADM\Desktop\ProjetoWebSysAquarismo\API\Project.Api.SysAquarismo\Api.SysAquarismo\obj\Debug\netcoreapp2.2.5.0\Api.SysAquarismo.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\ProjetoWebSysAquarismo\API\Project.Api.SysAquarismo\Api.SysAquarismo\obj\Debug\netcoreapp2.2.5.0\Api.SysAquarismo.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\ProjetoWebSysAquarismo\API\Project.Api.SysAquarismo\Api.SysAquarismo\obj\Debug\netcoreapp2.2.5.0\Api.SysAquarismo.AssemblyInfo.cs
+C:\Users\ADM\Desktop\ProjetoWebSysAquarismo\API\Project.Api.SysAquarismo\Api.SysAquarismo\obj\Debug\netcoreapp2.2.5.0\Api.SysAquarismo.csproj.CoreCompileInputs.cache
